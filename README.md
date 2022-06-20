@@ -9,7 +9,7 @@
 - 💬 Ask me about Data Science
 - 📫 How to reach me: [twitter: alexFocus8](https://twitter.com/alexFocus8)
 
-### - Languages and Tools...
+### - Languages and Tools
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -29,5 +29,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+### awards 
+**Winner of the Spain.AI NLP challenge**
+![image](https://user-images.githubusercontent.com/52139366/174648803-f8ca9421-a10d-40b0-9e25-36e7e844cb01.png)
 
 
