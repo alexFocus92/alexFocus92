@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching Deep Learning, automation and get Data insights.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2015 with 5+ years of experience in enterprise wide Data Science.\
-&nbsp;&nbsp;&nbsp;📫 How to reach me: [![image](https://user-images.githubusercontent.com/52139366/174652376-f798b716-137a-4d21-9c2a-432bb61c59db.png)](https://twitter.com/alexFocus8) \
+&nbsp;&nbsp;&nbsp;📫 How to reach me: [![image](https://user-images.githubusercontent.com/52139366/174652651-81d8abf8-c442-4763-835f-16f8a9cff58f.png)](https://twitter.com/alexFocus8)
 
 
 ### 💾 &nbsp;Languages and Tools
