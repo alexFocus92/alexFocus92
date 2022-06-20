@@ -7,7 +7,7 @@
 - 🔭 I’m Senior Data Scientist on AXA 
 - 🌱 I’m currently learning Web 3.0 and Deep learning .
 - 💬 Ask me about Data Science
-- 📫 How to reach me: [twitter: alexFocus8](https://twitter.com/alexFocus8)
+- 📫 How to reach me: [![image](https://user-images.githubusercontent.com/52139366/174652213-d5d53992-75e9-44d3-a5a2-83fefb6a6ea8.png)](https://twitter.com/alexFocus8)
 
 
 ### :space_invader: &nbsp;About Me
