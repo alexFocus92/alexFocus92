@@ -1,15 +1,3 @@
-### Hi there 👋
-
-<!--
-**alexFocus92/alexFocus92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 I’m Senior Data Scientist on AXA 
-- 🌱 I’m currently learning Web 3.0 and Deep learning .
-- 💬 Ask me about Data Science
-- 📫 How to reach me: [![image](https://user-images.githubusercontent.com/52139366/174652376-f798b716-137a-4d21-9c2a-432bb61c59db.png)](https://twitter.com/alexFocus8)
-
-
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Senior Data Scientist at AXA  \
@@ -17,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching Deep Learning, automation and get Data insights.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2015 with 5+ years of experience in enterprise wide Data Science.\
-&nbsp;&nbsp;&nbsp;📫 How to reach me: [![image](https://user-images.githubusercontent.com/52139366/174651974-cf910275-af70-4ff9-a76f-1be5376bc8cf.png)](https://twitter.com/alexFocus8) \
+&nbsp;&nbsp;&nbsp;📫 How to reach me: [![image](https://user-images.githubusercontent.com/52139366/174652376-f798b716-137a-4d21-9c2a-432bb61c59db.png)](https://twitter.com/alexFocus8) \
 
 
 ### 💾 &nbsp;Languages and Tools
