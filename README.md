@@ -34,4 +34,6 @@
 
 ![image](https://user-images.githubusercontent.com/52139366/174648803-f8ca9421-a10d-40b0-9e25-36e7e844cb01.png)
 
+**Winner of the tryp2Digital Challenge organized by Atos & UC3M**
 
+![image](https://user-images.githubusercontent.com/52139366/174649239-50c364b1-52b4-4b9a-a944-8670a89d4adc.png)
