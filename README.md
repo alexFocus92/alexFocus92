@@ -40,39 +40,43 @@
 
 ## 🚀 **Áreas de Especialización**
 
+<div align="center">
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
 ### 🤖 **Inteligencia Artificial**
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Computer Vision
-- Deep Learning & Neural Networks
-- MLOps & Model Deployment
+- Modelos de Lenguaje Extensos (LLMs)
+- Procesamiento de Lenguaje Natural (NLP)
+- Visión por Computador (Computer Vision)
+- Redes Neuronales y Deep Learning
+- Despliegue de Modelos (MLOps)
 - IA Responsable y Ética
 
 </td>
 <td valign="top" width="50%">
 
-### 📊 **Data Science & Analytics**
-- Statistical Analysis & Modeling
-- Predictive Analytics
-- Business Intelligence
-- A/B Testing & Experimentation
-- Data Pipeline Engineering
-- Cloud Architectures (AWS, GCP)
+### 📊 **Ciencia de Datos y Analítica**
+- Análisis Estadístico y Modelado
+- Analítica Predictiva
+- Inteligencia de Negocio (Business Intelligence)
+- Experimentación y Testing A/B
+- Ingeniería de Pipelines de Datos
+- Arquitecturas Cloud (Azure, GCP)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ **Stack Tecnológico**
 
-### **IA & Machine Learning**
+### **IA y Machine Learning**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -102,7 +106,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### **Cloud & Deployment**
+### **Cloud y Despliegue**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -110,7 +114,7 @@
   </a>
 </p>
 
-### **Desarrollo & Frontend**
+### **Desarrollo y Frontend**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -135,8 +139,8 @@
 <img width="400" src="https://user-images.githubusercontent.com/52139366/174648803-f8ca9421-a10d-40b0-9e25-36e7e844cb01.png" alt="Spain.AI NLP Challenge" />
 </div>
 
-### 🥇 **Ganador Tryp2Digital Challenge**
-**Primer lugar** en el desafío organizado por **Atos & UC3M**
+### 🥇 **Ganador del Tryp2Digital Challenge**
+**Primer lugar** en el desafío organizado por **Atos y UC3M**
 - **Enfoque**: Innovación digital y automatización
 - **Impacto**: Solución escalable para optimización de procesos
 
@@ -210,9 +214,9 @@
 
 **💡 Siempre abierto a discutir:**
 - Proyectos de IA y LLMs
-- Consultoría en Data Science
+- Consultoría en Ciencia de Datos
 - Colaboraciones educativas
-- Oportunidades de speaking
+- Oportunidades de ponencias
 
 </div>
 
