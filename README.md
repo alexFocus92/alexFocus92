@@ -14,7 +14,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@alexFocus8)
 [![Website](https://img.shields.io/badge/Leniax.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://leniax.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/alexFocus8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/alejandro-garcia-focus)
 
 
 </div>
