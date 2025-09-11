@@ -2,7 +2,11 @@
 
 # ¡Hola! Soy Alejandro Ortega <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+---
+
+</div>
 
 ## 🔬 **Senior Data Scientist** | 🤖 **Experto en IA & LLMs**
 
@@ -71,7 +75,11 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+---
+
+</div>
 
 ## 🛠️ **Stack Tecnológico**
 
@@ -123,14 +131,24 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+---
+
+</div>
 
 ## 🏆 **Proyectos y Logros Destacados**
 
 ### 💻 **Proyecto Personal: NuboStories**
-> **WebApp IA en Producción** | [🌐 nubostories.com](https://nubostories.com)
+> **WebApp IA en Producción**
 
-Aplicación web **en funcionamiento** que aprovecha el **poder de la Inteligencia Artificial** para generar cuentos y actividades educativas personalizadas. **Actualmente en uso** con modelo freemium y procesamiento de pagos.
+<div align="center">
+<a href="https://nubostories.com" target="_blank">
+<img src="https://img.shields.io/badge/🌐_nubostories.com-4285F4?style=for-the-badge&logoColor=white&labelColor=4285F4" alt="Visitar NuboStories" />
+</a>
+</div>
+
+Aplicación web **en funcionamiento** que aprovecha el **poder de la Inteligencia Artificial** para generar cuentos y actividades educativas personalizadas.
 
 **🤖 Inteligencia Artificial Implementada:**
 - **OpenAI GPT** para generación de narrativas personalizadas
@@ -205,7 +223,11 @@ React + TypeScript | Supabase | OpenAI + Replicate | Stripe | PWA
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+---
+
+</div>
 
 ## 📫 **¡Conectemos!**
 
@@ -235,7 +257,11 @@ React + TypeScript | Supabase | OpenAI + Replicate | Stripe | PWA
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+---
+
+</div>
 
 <div align="center">
 
