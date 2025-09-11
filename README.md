@@ -123,41 +123,57 @@
 
 
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 **Logros y Reconocimientos**
+## 🏆 **Proyectos y Logros Destacados**
 
-### 🥇 **Ganador del Spain.AI NLP Challenge**
-**Primer lugar** en el desafío de procesamiento de lenguaje natural más prestigioso de España
-- **Cliente**: Inditex
-- **Tecnologías**: Transformers, BERT, PyTorch
+### 💻 **Proyecto Personal: NuboStories**
+> **WebApp IA en Producción** | [🌐 nubostories.com](https://nubostories.com)
+
+Aplicación web **en funcionamiento** que aprovecha el **poder de la Inteligencia Artificial** para generar cuentos y actividades educativas personalizadas. **Actualmente en uso** con modelo freemium y procesamiento de pagos.
+
+**🤖 Inteligencia Artificial Implementada:**
+- **OpenAI GPT** para generación de narrativas personalizadas
+- **Replicate API** para creación automática de ilustraciones
+- **Personalización inteligente** basada en preferencias del usuario
+
+**⚡ Stack en Producción:**
+React + TypeScript | Supabase | OpenAI + Replicate | Stripe | PWA
+
+**🎯 Resultado:** Aplicación comercial funcionando en producción que demuestra implementación práctica de IA generativa en un producto real con usuarios activos.
+
+---
+
+### 🥇 **Premios y Reconocimientos en IA**
+
+**🏆 Ganador del Spain.AI NLP Challenge**
+- **Primer lugar** en el desafío de procesamiento de lenguaje natural más prestigioso de España
+- **Cliente**: Inditex | **Tecnologías**: Transformers, BERT, PyTorch
 - 🔗 [**Ver código ganador**](https://github.com/alexFocus92/winner-code-nlp-spainai-inditex)
 
 <div align="center">
 <img width="400" src="https://user-images.githubusercontent.com/52139366/174648803-f8ca9421-a10d-40b0-9e25-36e7e844cb01.png" alt="Spain.AI NLP Challenge" />
 </div>
 
-### 🥇 **Ganador del Tryp2Digital Challenge**
-**Primer lugar** en el desafío organizado por **Atos y UC3M**
+**🏆 Ganador del Tryp2Digital Challenge**
+- **Primer lugar** en el desafío organizado por **Atos y UC3M**
 - **Enfoque**: Innovación digital y automatización
-- **Impacto**: Solución escalable para optimización de procesos
 
 <div align="center">
 <img width="400" src="https://user-images.githubusercontent.com/52139366/174649239-50c364b1-52b4-4b9a-a944-8670a89d4adc.png" alt="Tryp2Digital Challenge" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 💼 **Proyectos Destacados**
+### 📊 **Repositorios Open Source**
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexFocus92&repo=winner-code-nlp-spainai-inditex&theme=tokyonight&hide_border=true)](https://github.com/alexFocus92/winner-code-nlp-spainai-inditex)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexFocus92&repo=youtube_projects&theme=tokyonight&hide_border=true)](https://github.com/alexFocus92/youtube_projects)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexFocus92&repo=winner-code-nlp-spainai-inditex&theme=default&hide_border=true)](https://github.com/alexFocus92/winner-code-nlp-spainai-inditex)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexFocus92&repo=youtube_projects&theme=default&hide_border=true)](https://github.com/alexFocus92/youtube_projects)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexFocus92&repo=stock_market_forecast&theme=tokyonight&hide_border=true)](https://github.com/alexFocus92/stock_market_forecast)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexFocus92&repo=juego_de_la_vida&theme=tokyonight&hide_border=true)](https://github.com/alexFocus92/juego_de_la_vida)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexFocus92&repo=stock_market_forecast&theme=default&hide_border=true)](https://github.com/alexFocus92/stock_market_forecast)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexFocus92&repo=juego_de_la_vida&theme=default&hide_border=true)](https://github.com/alexFocus92/juego_de_la_vida)
 
 </div>
 
@@ -177,15 +193,15 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=alexFocus92&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=alexFocus92&show_icons=true&theme=default&count_private=true&hide_border=true" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexFocus92&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexFocus92&layout=compact&theme=default&hide_border=true" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexFocus92&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexFocus92&theme=default&hide_border=true" />
 
 </div>
 
